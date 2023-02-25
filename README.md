@@ -32,8 +32,8 @@ con los botones `Try it out`
 
 Configuracion
 
-![alt text](image1.png "Configuracion")
+![alt text](images/image1.png "Configuracion")
 
 Prueba
 
-![alt text](image2.png "Prueba")
+![alt text](images/image2.png "Prueba")
